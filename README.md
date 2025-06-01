@@ -42,8 +42,8 @@ And use the following commands to find best fusion weights and output the metric
 ```bash
 sh scripts\metrics.sh
 ```
-## 5. Acknowledgements
-Our code is based on the implementation of [peft](https://github.com/huggingface/peft) and [transformers](https://github.com/huggingface/transformers)
-```
-## 6.更改
-由于作者上传的存储库已过期，上传了之前下载的项目到github上，用于课程项目的检查，方便学习应用，并且上传了一个新的数据库，用于验证，虽然MOOC数据集的结果可能不尽如人意。如有侵权，联系删除。
+## 5. Acknowledgements  
+Our code is based on the implementation of [peft](https://github.com/huggingface/peft) and [transformers](https://github.com/huggingface/transformers).
+
+## 6. 更改  
+由于作者上传的存储库已过期，上传了之前下载的项目到 GitHub 上，用于课程项目的检查，方便学习应用，并且上传了一个新的数据库，用于验证。虽然 MOOC 数据集的结果可能不尽如人意，如有侵权，联系删除。
