@@ -46,4 +46,5 @@ sh scripts\metrics.sh
 Our code is based on the implementation of [peft](https://github.com/huggingface/peft) and [transformers](https://github.com/huggingface/transformers).
 
 ## 6. 更改  
-由于作者上传的存储库已过期，上传了之前下载的项目到 GitHub 上，用于课程项目的检查，方便学习应用，并且上传了一个新的数据库，用于验证。虽然 MOOC 数据集的结果可能不尽如人意，如有侵权，联系删除。
+由于作者上传的存储库已过期，上传了之前下载的项目到 GitHub 上，用于课程项目的检查，方便学习应用，并且上传了一个新的数据集processed.zip，用于验证该模型是否可以应用于MOOC，但是MOOC数据集的结果不尽如人意。
+如有侵权，联系删除。
